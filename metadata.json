@@ -1,0 +1,6 @@
+{
+  "name": "Archivist Chronicle",
+  "description": "A sophisticated archival platform bridging legal evidence and human narrative, designed for the Fluidmotion journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
